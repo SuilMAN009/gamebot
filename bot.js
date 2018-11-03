@@ -23,7 +23,7 @@ client.on('message',fkk => {
 "الحوت الأزرق",
  "اكس ار بي العب واحد بالعالم",
 ];
-        var x2 = ['DreamKing',
+        var x2 = ['IixRp_',
         "DeathGames",
         "زيرو كنج",
         "أرض الأحلام",
