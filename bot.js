@@ -2,8 +2,8 @@ const Discord = require("discord.js");
 const client = new Discord.Client();
 var prefix = "!";
 client.on('message',fkk => {
-    if (fkk.content == "!fast") {
-        var x = ["DreamKing",
+    if (fkk.content == "!fkk") {
+        var x = ["IixRp_",
 "DeathGames",
 "زيرو كنج",
 "أرض الأحلام",
@@ -79,7 +79,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : DREAM ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Dream | ${client.guilds.size} ${client.users.size} servers/user`,"http://twitch.tv/YouTube")
+client.user.setGame(`IixRp_ | ${client.guilds.size} ${client.users.size} servers/user`,"http://twitch.tv/YouTube")
 client.user.setStatus("dnd")
 });
 
