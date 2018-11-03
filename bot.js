@@ -2,7 +2,7 @@ const Discord = require("discord.js");
 const client = new Discord.Client();
 var prefix = "!";
 client.on('message',fkk => {
-    if (fkk.content == "!fkk") {
+    if (fkk.content == "!fast") {
         var x = ["IixRp_",
 "DeathGames",
 "زيرو كنج",
