@@ -74,9 +74,9 @@ client.on('message',fkk => {
 
 client.on('ready', () => {
    console.log(`----------------`);
-      console.log(`Cyhper Script By : DREAM`);
+      console.log(`Cyhper Script By : IixRp_`);
         console.log(`----------------`);
-      console.log(`ON ${client.guilds.size} Servers '     Script By : DREAM ' `);
+      console.log(`ON ${client.guilds.size} Servers '     Script By : IixRp_ ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
 client.user.setGame(`IixRp_ | ${client.guilds.size} ${client.users.size} servers/user`,"http://twitch.tv/YouTube")
